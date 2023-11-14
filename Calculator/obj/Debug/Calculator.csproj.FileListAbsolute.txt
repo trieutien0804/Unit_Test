@@ -1,0 +1,10 @@
+E:\NNTT\Kiểm thử\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\NNTT\Kiểm thử\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\NNTT\Kiểm thử\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\NNTT\Kiểm thử\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\NNTT\Kiểm thử\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\NNTT\Kiểm thử\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\NNTT\Kiểm thử\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\NNTT\Kiểm thử\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\NNTT\Kiểm thử\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\NNTT\Kiểm thử\Calculator\Calculator\obj\Debug\Calculator.pdb

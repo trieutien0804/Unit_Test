@@ -1,0 +1,17 @@
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\TestCalculation.dll
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\TestCalculation.pdb
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Calculator.exe
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Calculator.pdb
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Calculator.exe.config
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\obj\Debug\TestCalculation.csproj.AssemblyReference.cache
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\obj\Debug\TestCalculation.csproj.CoreCompileInputs.cache
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\obj\Debug\TestCalculation.csproj.CopyComplete
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\obj\Debug\TestCalculation.dll
+E:\NNTT\Kiểm thử\Calculator\TestCalculation\obj\Debug\TestCalculation.pdb
